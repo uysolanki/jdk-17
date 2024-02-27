@@ -1,0 +1,10 @@
+https://drive.google.com/file/d/1QAca1ILdkPAmcTe3E-F_XuEPLh97hHLn/view?usp=drive_link
+
+PATH
+C:\Program Files\Java\jdk-17\bin;
+
+CLASSPATH
+C:\Program Files\Java\jdk-17\bin;.;
+
+JAVA_HOME
+C:\Program Files\Java\jdk-17\bin
